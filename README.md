@@ -14,6 +14,9 @@ A QA engineer with five years of experience, currently specializing in mobile, w
 ### [Open Source Contribution](https://github.com/Jurence/slack-notification-template)
 Comprehensive slack notification for e2e tests for each completed build/run 
 
+### [Mobile Testing](https://github.com/Jurence/maestro)
+A POC for a Mobile testing with maestro UI
+
 ### [Wifi DOS](https://github.com/Jurence/Jury)
 A POC for a Wifi DOS script written in python
 
