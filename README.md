@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jurence
 
-A Part time BE Engineer, Cyber security enthusiast and QA engineer, currently specializing in mobile, web, backend and 3D technology product testing. Passionate about ensuring software quality and seamless user experiences. In my free time, i write/learn some backend/FE code as well.
+A Cyber security enthusiast and QA engineer, currently specializing in mobile, web, backend and 3D technology product testing. Passionate about ensuring software quality and seamless user experiences. In my free time, i write/learn some backend/FE code as well.
 
 - 🔍 I’m currently working on end-to-end tests for mobile applications.
 - 🌱 I’m currently learning advanced techniques in 3D technology and mobile application testing.
