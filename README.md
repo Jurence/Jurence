@@ -1,6 +1,5 @@
-# Hi there 👋, I'm Jurence
-
-A Cyber security enthusiast and QA engineer, currently specializing in mobile, web, backend and 3D technology product testing. Passionate about ensuring software quality and seamless user experiences. In my free time, i am a gamer, a chess player and traveler
+# Hi there 👋
+I hope you are well. Incase you found this page, it means you are in the right place, feel at home as i introduce you. I am A Cyber security enthusiast and QA engineer, currently specializing in mobile, web, backend and 3D technology product testing. Passionate about ensuring software quality and seamless user experiences. In my free time, i am a gamer, a chess player and traveler
 
 - 🔍 I’m currently working on end-to-end tests for mobile applications.
 - 🌱 I’m currently learning advanced techniques in 3D technology and mobile application testing.
